@@ -11,3 +11,10 @@ STEPS TO USE THIS TOOL :-
 * git clone https://github.com/Gollu2008/COBRA.git
 * cd Cobra
 * python3 lazymux-ENC.py
+
+
+
+IF YOU LIKE THIS SCRIPT THEN MAKE DONATIONS ON :-
+* Bitcoin : bc1qetprtupypdueeu2vjnaycpkm3rudkswykumgq5
+* BNB or ETHEREUM : 0xB6ecBA18B014627E1276e7f600121111A81810f8
+* UPI : https://filepizza.tralbi.net/bbqchicken/almonds/cauliflower/cilantro
