@@ -9,6 +9,7 @@ STEPS TO USE THIS TOOL :-
 
 * apt update && apt upgrade
 * git clone https://github.com/Gollu2008/COBRA.git
+* cd COBRA
 * cd Cobra
 * python3 lazymux-ENC.py
 
