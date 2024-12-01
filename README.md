@@ -19,4 +19,4 @@ STEPS TO USE THIS TOOL :-
 IF YOU LIKE THIS SCRIPT THEN MAKE DONATIONS ON :-
 * Bitcoin : bc1qetprtupypdueeu2vjnaycpkm3rudkswykumgq5
 * BNB or ETHEREUM : 0xB6ecBA18B014627E1276e7f600121111A81810f8
-* UPI : https://filepizza.tralbi.net/bbqchicken/almonds/cauliflower/cilantro
+* UPI : ![image](https://github.com/user-attachments/assets/298caa9e-e093-467a-a78d-0cbeb5206631)
