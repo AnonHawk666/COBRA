@@ -13,7 +13,7 @@ STEPS TO USE THIS TOOL :-
 * cd Cobra
 * python3 lazymux-ENC.py
 
-![image](https://github.com/user-attachments/assets/d3958ef1-9530-4d12-a012-b308babcf924)
+![image](https://github.com/user-attachments/assets/b2978bca-44ad-4cb9-97ce-0b36c86a0adc)
 
 
 IF YOU LIKE THIS SCRIPT THEN MAKE DONATIONS ON :-
